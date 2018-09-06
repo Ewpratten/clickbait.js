@@ -1,2 +1,4 @@
 # clickbait.js
-The official repo for clickbait.js
+Yes, this is in fact clickbait. Enjoy this empty repo.
+
+I hate javascript.
